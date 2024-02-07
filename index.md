@@ -2,7 +2,7 @@
 
 **vinay kumar reddy**
 Hi! Guys
-I am from rayachoty,kadapa dist,ANDHRA PRADESH. 
+I am from rayachoty,kadapa dist,ANDHRA PRADESH. [![profile photo](^4^)](https:/linktomyprofilephoto)
 
 # EDUCATION
 
