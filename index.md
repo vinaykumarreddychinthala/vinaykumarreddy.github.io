@@ -1,9 +1,10 @@
-#ABOUT ME
+# ABOUT ME
 
 **vinay kumar reddy**
+Hi! Guys
 I am from rayachoty,kadapa dist,ANDHRA PRADESH. 
 
-#EDUCATION
+# EDUCATION
 
 |   Academic year   |   Standard    |   School name              |
 |-------------------|---------------|----------------------------|
@@ -11,9 +12,9 @@ I am from rayachoty,kadapa dist,ANDHRA PRADESH.
 |   2k22-2k23       |    12         |  Sri chaitanya high school |
 |   2k23-2k27       |   Btech       |  IIT GOA                   |
 
-#COURSES @IIT GOA
+# COURSES @IIT GOA
 
-##AUTUMN SEMESTER(Aug '23- Nov '23)
+## AUTUMN SEMESTER(Aug '23- Nov '23)
 -**MA101** *Dr.sandipan de and Dr.shiv prasad*
 -**CH101** *Dr.SS iyer*
 -**CH102** *Dr.Raj mithra and Dr.Rishikesh narayan*
@@ -25,12 +26,17 @@ I am from rayachoty,kadapa dist,ANDHRA PRADESH.
 -**PH101** *Dr.Santhosh kumar das and Dr.Sudipta kanungo*
 -**HS101** *Dr.Sabiha Hashami*
 
-##SPRING SEMESTER(Jan'24-May'24)
--**EE101**  *Dr.Apeksha Madukar and Dr.Brindhan*
--**BIO101** *Dr.Sreenath Balakrishnan*
--**ME102**  *Dr.Arindam das*
--**PH102**  *Dr.Vaibhav wasnik*
--**CS102**  *Dr.Clint george*
--**MA102**  *Dr.Kalpesh haria*
--**ELPP**   *Dr.Neeraja raghavan*
--**MA103**  *Dr.Sau
+## SPRING SEMESTER(Jan'24-May'24)
+- **EE101**  *Dr.Apeksha Madukar and Dr.Brindhan*
+- **BIO101** *Dr.Sreenath Balakrishnan*
+- **ME102**  *Dr.Arindam das*
+- **PH102**  *Dr.Vaibhav wasnik*
+- **CS102**  *Dr.Clint george*
+- **MA102**  *Dr.Kalpesh haria*
+- **ELPP**   *Dr.Neeraja raghavan*
+
+##  HOBBIES AND ACTIVITIES
+- volleyball
+- badminton
+## PROJECTS
+-  portfolio website
