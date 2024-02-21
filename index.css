@@ -1,0 +1,41 @@
+.mouse{
+	border:2pt black;
+	background-color:light salmon;
+	}
+.pencil{
+	font-family:bold,Times New Roman;
+	margin:opt 13pt;
+.pen{
+	font-family:sans-serif;
+	color:blue;
+	}
+.goes{
+	border-spacing:5px 5px;
+	background-color:light blue;}
+#x{
+	padding:10pt;
+	text-align:left;
+	}
+#z{
+	padding:10pt;
+	text-align:left;
+	}
+#y{
+	padding:10pt;
+	text-align:center;
+	}
+.a{
+	background-color:green;
+	border:3pt;
+	}
+.a{
+	background-color:light pink;
+	border:3pt;
+	}
+.board{
+	display:flex;
+	}
+.phone{
+	background-color:grey;
+	}
+	
